@@ -1,0 +1,7 @@
+{
+  "name": "Basic-calculator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
