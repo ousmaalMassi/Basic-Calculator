@@ -2,6 +2,6 @@
 <resources>
     <string name="app_name">Basic-calculator</string>
     <string name="title_activity_main">Basic-calculator</string>
-    <string name="package_name">io.ionic.starter</string>
-    <string name="custom_url_scheme">io.ionic.starter</string>
+    <string name="package_name">io.basic.calculator</string>
+    <string name="custom_url_scheme">io.basic.calculator</string>
 </resources>
